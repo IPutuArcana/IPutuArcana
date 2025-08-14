@@ -6,7 +6,6 @@
 
 > ⏳ “Times keep ticking and I will find a way for human can catch up with it.”  
 > — _I Putu Arcana_
-> languages graph
 
 ---
 
