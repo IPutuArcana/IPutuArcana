@@ -19,15 +19,7 @@
 - 💡 Python · GDscript · C/C++
 - 🧩 Creative problem-solving
 - ⚡ Rapid learning and adaptability
-
-## 🌟 Featured Project
-
-### 🔒 [Steganography Explorer](https://github.com/IPutuArcana/Steganographi)
-Interested in the art of hiding information?  
-Check out my Steganography project where I experiment with concealing data in images and audio!
-
----
-
+  
 ## 🎨 Fun Facts
 
 - 💻 Hobbies: Coding & Drawing
