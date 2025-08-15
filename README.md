@@ -13,20 +13,8 @@
 - 🧪 Always exploring new technologies
 - 🎨 Love both coding and drawing
 - 🌱 Dedicated to continuous learning and self-improvement
-
-## 🗝️ Skills & Tools
-
-- 💡 Python · GDscript · C/C++
-- 🧩 Creative problem-solving
-- ⚡ Rapid learning and adaptability
-  
-## 🎨 Fun Facts
-
-- 💻 Hobbies: Coding & Drawing
-- 📚 Always eager to learn something new
-- 🤝 Happy to collaborate on creative ideas!
-
 ---
+[![Aznt's GitHub stats](https://github-readme-stats.vercel.app/api?username=IPutuArcana&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📫 Connect with Me
 
