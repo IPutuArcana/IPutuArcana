@@ -1,9 +1,6 @@
 # Hi, I'm I Putu Arcana! 👋
 
 **Computer Science Student · Aspiring Developer · Lifelong Learner**
-
----
-
 > ⏳ “Times keep ticking and I will find a way for human can catch up with it.”  
 > — _I Putu Arcana_
 
